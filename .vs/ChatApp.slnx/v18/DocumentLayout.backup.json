@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Muhammed-Elubeyid-chat-project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAD9CAE-B095-3F5F-CF1E-26EE5776EB75}|ChatApp\\ChatApp.csproj|c:\\users\\user\\desktop\\muhammed-elubeyid-chat-project\\chatapp\\presenters\\chatpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAD9CAE-B095-3F5F-CF1E-26EE5776EB75}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\presenters\\chatpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAD9CAE-B095-3F5F-CF1E-26EE5776EB75}|ChatApp\\ChatApp.csproj|c:\\users\\user\\desktop\\muhammed-elubeyid-chat-project\\chatapp\\presenters\\chatpresenter.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{4AAD9CAE-B095-3F5F-CF1E-26EE5776EB75}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\presenters\\chatpresenter.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\Muhammed-Elubeyid-chat-project\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Muhammed-Elubeyid-chat-project\\ChatApp\\Presenters\\ChatPresenter.cs",
+              "RelativeDocumentMoniker": "ChatApp\\Presenters\\ChatPresenter.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Muhammed-Elubeyid-chat-project\\ChatApp\\Presenters\\ChatPresenter.cs",
+              "RelativeToolTip": "ChatApp\\Presenters\\ChatPresenter.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAswAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T17:23:45.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatPresenter.resx",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Muhammed-Elubeyid-chat-project\\ChatApp\\Presenters\\ChatPresenter.resx",
+              "RelativeDocumentMoniker": "ChatApp\\Presenters\\ChatPresenter.resx",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Muhammed-Elubeyid-chat-project\\ChatApp\\Presenters\\ChatPresenter.resx",
+              "RelativeToolTip": "ChatApp\\Presenters\\ChatPresenter.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-03-25T17:23:38.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Muhammed-Elubeyid-chat-project\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Muhammed-Elubeyid-chat-project\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-03-24T19:03:05.836Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
